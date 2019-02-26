@@ -1,5 +1,5 @@
-# Display-Date-and-Time
-<!DOCTYPE HTML>
+
+<!DOCTYPE html>
 <html>
 <body>
   <h1> Display Date and Time </h1>
